@@ -8,4 +8,5 @@ Main repository for my notebooks containing my (~~probably~~ *potentially* incor
 | [Algebra](https://github.com/jflopezfernandez/books-notebooks-mathematics-lang-algebra) | Lang, Serge | 3rd |
 | [Complex Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-ahlfors-complex-analysis.git) | Ahlfors, Lars | 3rd |
 | [Principles of Mathematical Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-rudin-principles-of-mathematical-analysis "Principles of Mathematical Analysis - Github Repository") | Rudin, Walter | 3rd |
+| [The Real Numbers and Real Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-bloch-real-numbers-and-real-analysis) | Bloch, Ethan D. | 1st |
 | [Topology](https://github.com/jflopezfernandez/books-notebooks-mathematics-munkres-topology) | Munkres, James | 2nd |
