@@ -10,6 +10,7 @@ Main repository for my notebooks containing my (~~probably~~ *potentially* incor
 | [Calculus - Early Transcendentals](https://github.com/jflopezfernandez/books-notebooks-mathematics-stewart-calculus-et-7) | Stewart, James | 7th | 0% |
 | [Complex Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-ahlfors-complex-analysis.git) | Ahlfors, Lars | 3rd | 0% |
 | [Complex Variables and Applications](https://github.com/jflopezfernandez/books-notebooks-mathematics-brown-churchill-complex-variables-and) | Brown & Churchill | 8th | 0% |
+| [Introduction to Linear Algebra](https://github.com/jflopezfernandez/books-notebooks-mathematics-strang-intro-linear-algebra-5) | Strang, Gilbert | 5th | 0% |
 | [Multivariable Calculus with Applications](https://github.com/jflopezfernandez/books-notebooks-mathematics-lax-and-terrell-multivariable-calculus) | Lax & Terrell | 1st | 0% |
 | [Principles of Mathematical Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-rudin-principles-of-mathematical-analysis "Principles of Mathematical Analysis - Github Repository") | Rudin, Walter | 3rd | 3.48% |
 | [The Real Numbers and Real Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-bloch-real-numbers-and-real-analysis) | Bloch, Ethan D. | 1st | 0% |
