@@ -7,7 +7,7 @@ Main repository for my notebooks containing my (~~probably~~ *potentially* incor
 | [Abstract Algebra](https://github.com/jflopezfernandez/books-notebooks-mathematics-abstract-algebra) | Dummit & Foote | 3rd | 0% |
 | [Advanced Calculus](https://github.com/jflopezfernandez/books-notebooks-mathematics-callahan-advanced-calculus) | Callahan, James J. | 1st | 0% |
 | [Algebra](https://github.com/jflopezfernandez/books-notebooks-mathematics-lang-algebra) | Lang, Serge | 3rd | 0% |
-| [Calculus - Early Transcendentals](https://github.com/jflopezfernandez/books-notebooks-mathematics-stewart-calculus-et-7) | Stewart, James | 7th | 0.04% |
+| [Calculus - Early Transcendentals](https://github.com/jflopezfernandez/books-notebooks-mathematics-stewart-calculus-et-7) | Stewart, James | 7th | 0.13% |
 | [Complex Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-ahlfors-complex-analysis.git) | Ahlfors, Lars | 3rd | 0% |
 | [Complex Variables and Applications](https://github.com/jflopezfernandez/books-notebooks-mathematics-brown-churchill-complex-variables-and) | Brown & Churchill | 8th | 0% |
 | [Differential Equations and Linear Algebra](https://github.com/jflopezfernandez/books-notebooks-mathematics-strang-differential-eq-and-la) | Strang, Gilbert | 1st | 0% |
