@@ -18,3 +18,4 @@ Main repository for my notebooks containing my (~~probably~~ *potentially* incor
 | [Principles of Mathematical Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-rudin-principles-of-mathematical-analysis "Principles of Mathematical Analysis - Github Repository") | Rudin, Walter | 3rd | 3.83% |
 | [The Real Numbers and Real Analysis](https://github.com/jflopezfernandez/books-notebooks-mathematics-bloch-real-numbers-and-real-analysis) | Bloch, Ethan D. | 1st | 0.20% |
 | [Topology](https://github.com/jflopezfernandez/books-notebooks-mathematics-munkres-topology) | Munkres, James | 2nd | 0% |
+| [University Physics](https://github.com/jflopezfernandez/books-notebooks-physics-university-physics-young-freedman-11) | Young & Freedman | 11th | 0% |
